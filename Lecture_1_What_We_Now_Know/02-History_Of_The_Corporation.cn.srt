@@ -1,0 +1,129 @@
+1
+00:00:00,000 --> 00:00:06,000
+The modern corporation as we know it was first formed in 1602
+现代公司最初形成于1602年
+
+2
+00:00:06,000 --> 00:00:09,000
+with the government chartered Dutch East India Company.
+由政府许可的荷兰东印度公司
+
+3
+00:00:09,000 --> 00:00:12,000
+This is kind of the first modern corporation with shareholders and organizations
+可能是第一个有组织的股份制公司
+
+4
+00:00:12,000 --> 00:00:17,000
+that kind of if you squinted looked like something closed to modern companies today.
+仔细来看，它很像如今的公司
+
+5
+00:00:17,000 --> 00:00:22,000
+By the 1850s in the United States with railroads spanning the entire country,
+在19世纪50年代，铁路网络纵横美国南北
+
+6
+00:00:22,000 --> 00:00:25,000
+corporations needed more sophisticated organizations
+公司需要变成更复杂的结构
+
+7
+00:00:25,000 --> 00:00:30,000
+and the fact the first org chart was drawn in 1856 to just manage corporations
+一个事实是第一个便于管理公司的组织结构图绘成于1856年
+
+8
+00:00:30,000 --> 00:00:35,000
+and by the beginning of the 20th century, educators started realizing
+到20世纪初期，教育者开始认识到
+
+9
+00:00:35,000 --> 00:00:43,000
+that there was a need for an educated management class to administer and execute these corporations
+有必要设置教授公司管理和执行的专业管理课程
+
+10
+00:00:43,000 --> 00:00:49,000
+because at least in the United States we were going from local economies to regional economies
+因为至少在美国，我们从地方经济发展为区域经济
+
+11
+00:00:49,000 --> 00:00:53,000
+to a national economy, yet we did not have a trained management class
+再到国民经济，其间我们却缺乏良好的管理课程
+
+12
+00:00:53,000 --> 00:01:02,000
+and so in a brilliant insight, Harvard set up the first masters of business administration course
+对此，有着慧眼的哈佛大学，开设了世上第一个工商管理硕士专业课程
+
+13
+00:01:02,000 --> 00:01:09,000
+called the MBA and the first graduating class in 1910 was the first of a
+简称MBA，在1910年，它的第一批毕业生诞生
+
+14
+00:01:09,000 --> 00:01:16,000
+cadre of business administrators that made the 20th century the modern corporate century.
+他们成为商业管理领域的中流砥柱，成就了20世纪，一个现代公司的世纪
+
+15
+00:01:16,000 --> 00:01:20,000
+The MBA curriculum is designed to provide managers and administrators
+MBA课程大纲设计为向管理者们
+
+16
+00:01:20,000 --> 00:01:25,000
+with the tools they needed to run existing and growing companies.
+提供业已存在的和发展中的公司所需的工具
+
+17
+00:01:25,000 --> 00:01:31,000
+Accounting, strategy, operations, leadership, organizational behavior,
+财会、战略、运营，领导力、组织行为、人力资源管理
+
+18
+00:01:31,000 --> 00:01:37,000
+human resources management and these stack of tools were just incredibly important
+这些工具对于大型公司的发展
+
+19
+00:01:37,000 --> 00:01:43,000
+for the growth of large companies but what's really interesting what that missed is that
+起着异常重要的作用，然而有趣的是，课程大纲缺失的
+
+20
+00:01:43,000 --> 00:01:48,000
+they were really no tools provided in this curriculum for starting new businesses.
+是为创业公司提供工具
+
+21
+00:01:48,000 --> 00:01:52,000
+One of the things we did not understand for 100 years
+我们一百年来都没弄明白的一点是
+
+22
+00:01:52,000 --> 00:01:58,000
+is that startups are not smaller versions of large companies.
+创业公司不是缩小的大公司
+
+23
+00:01:58,000 --> 00:02:03,000
+Let me say it again--startups are not smaller versions of large companies
+再强调一遍：创业公司不是麻雀虽小五脏俱全的公司
+
+24
+00:02:03,000 --> 00:02:11,000
+and what falls out of that is all the traditional tools taught and learned in an MBA curriculum
+事实上，在所有MBA课程里学到的传统工具
+
+25
+00:02:11,000 --> 00:02:16,000
+are irrelevant in the first chaotic year or two of an early stage venture.
+在混乱的创业早期的头一两年里起不到一点作用
+
+26
+00:02:16,000 --> 00:02:24,000
+Eventually, you need that tool set but at first it really gets in the way.
+最终你需要这些工具，但在创业早期，它们只会阻碍你
